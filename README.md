@@ -1,5 +1,4 @@
 # VAJA4
-docker
 
 Meme Generator (Docker + Flask)
 
